@@ -1,5 +1,11 @@
 ## Changelog
 
+### 3622c49f15ebc228fcc55052ada5ed327c0d4e98
+- translate everything to english
+
+### 9aabebda4e45d73a85778f7cdf902523f44099f2
+- add docs
+
 ### 1c91fb2c8e756a90cd5855720a48a31620fa6539
 - add description for all functions
 

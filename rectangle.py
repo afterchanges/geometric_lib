@@ -1,15 +1,15 @@
 def area(a, b):
     """
-    принимает длины сторон прямоугольника и возвращает его площадь
+    takes the lengths of the sides of the rectangle and returns its area
 
-    параметры:
-    a (float): - длина стороны прямоугольника
-    b (float): - длина стороны прямоугольника
+    parameters:
+    a (float): - length of the side of the rectangle
+    b (float): - length of the side of the rectangle
 
-    возращаемое значение:
-    float: - площадь прямоугольника
+    return value:
+    float: - area of the rectangle
 
-    пример использования:
+    usage example:
     >>> area(2, 3)
     6
     """
@@ -18,14 +18,14 @@ def area(a, b):
 
 def perimeter(a, b):
     """
-    принимает длины сторон прямоугольника и возвращает его периметр
+    takes the lengths of the sides of the rectangle and returns its perimeter
 
-    параметры:
-    a (float): - длина стороны прямоугольника
-    b (float): - длина стороны прямоугольника
+    parameters:
+    a (float): - length of the side of the rectangle
+    b (float): - length of the side of the rectangle
 
-    возращаемое значение:
-    float: - периметр прямоугольника
+    return value:
+    float: - perimeter of the rectangle
 
     """
     return 2 * (a + b)

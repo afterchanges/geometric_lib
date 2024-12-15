@@ -1,5 +1,5 @@
 # Geometric Library
 
-Geometric Library - это библиотека Python, предназначенная для выполнения различных геометрических вычислений. Она включает функции для расчета площади и периметра основных геометрических фигур, таких как круги, квадраты, треугольники и прямоугольники. Эта библиотека может быть полезна для студентов, преподавателей и разработчиков, работающих с геометрическими задачами.
+Geometric Library is a Python library designed for performing various geometric calculations. It includes functions for calculating the area and perimeter of basic geometric shapes such as circles, squares, triangles, and rectangles. This library can be useful for students, teachers, and developers working with geometric problems.
 
-Библиотека проста в использовании и легко расширяется. Вы можете легко добавить новые функции или изменить существующие для удовлетворения ваших потребностей. В репозитории также содержится документация, которая поможет вам быстро начать работу с библиотекой и понять, как использовать ее функции.
+The library is easy to use and highly extensible. You can easily add new functions or modify existing ones to meet your needs. The repository also contains documentation to help you quickly get started with the library and understand how to use its functions.

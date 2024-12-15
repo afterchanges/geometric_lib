@@ -1,15 +1,14 @@
-
 def area(a):
     """
-    принимает длину стороны квадрата и возвращает его площадь
+    Takes the length of the side of a square and returns its area
 
-    параметры:
-    a (float): - длина стороны квадрата
+    Parameters:
+    a (float): - length of the side of the square
 
-    возращаемое значение:
-    float: - площадь квадрата
+    Returns:
+    float: - area of the square
 
-    пример использования:
+    Example usage:
     >>> area(2)
     4
     """
@@ -17,5 +16,17 @@ def area(a):
 
 
 def perimeter(a):
-    # принимает длину стороны квадрата и возвращает его периметр
+    """
+    Takes the length of the side of a square and returns its perimeter
+
+    Parameters:
+    a (float): - length of the side of the square
+
+    Returns:
+    float: - perimeter of the square
+
+    Example usage:
+    >>> perimeter(2)
+    8
+    """
     return 4 * a

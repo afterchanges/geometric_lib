@@ -3,15 +3,15 @@ import math
 
 def area(r):
     """
-    принимает радиус окружности и возвращает ее площадь
+    takes the radius of a circle and returns its area
 
-    параметры:
-    r (float): - радиус окружности
+    parameters:
+    r (float): - radius of the circle
 
-    возращаемое значение:
-    float: - площадь окружности
+    return value:
+    float: - area of the circle
 
-    пример использования:
+    example usage:
     >>> area(1)
     3.141592
     """
@@ -20,15 +20,15 @@ def area(r):
 
 def perimeter(r):
     """
-    принимает радиус окружности и возвращает ее длину
+    takes the radius of a circle and returns its circumference
 
-    параметры:
-    r (float): - радиус окружности
+    parameters:
+    r (float): - radius of the circle
 
-    возращаемое значение:
-    float: - длина окружности
+    return value:
+    float: - circumference of the circle
 
-    пример использования:
+    example usage:
     >>> perimeter(1)
     6.283184
     """

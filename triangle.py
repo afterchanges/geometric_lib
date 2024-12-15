@@ -1,15 +1,15 @@
 def area(a, h):
     """
-    принимает длину основания и высоту треугольника и возвращает его площадь
+    Takes the base length and height of a triangle and returns its area
 
-    параметры:
-    a (float): - длина основания треугольника
-    h (float): - высота треугольника
+    Parameters:
+    a (float): - base length of the triangle
+    h (float): - height of the triangle
 
-    возращаемое значение:
-    float: - площадь треугольника
+    Returns:
+    float: - area of the triangle
 
-    пример использования:
+    Example usage:
     >>> area(2, 3)
     3
     """
@@ -18,17 +18,17 @@ def area(a, h):
 
 def perimeter(a, b, c):
     """
-    принимает длины сторон треугольника и возвращает его периметр
+    Takes the lengths of the sides of a triangle and returns its perimeter
 
-    параметры:
-    a (float): - длина стороны треугольника
-    b (float): - длина стороны треугольника
-    c (float): - длина стороны треугольника
+    Parameters:
+    a (float): - length of a side of the triangle
+    b (float): - length of a side of the triangle
+    c (float): - length of a side of the triangle
 
-    возращаемое значение:
-    float: - периметр треугольника
+    Returns:
+    float: - perimeter of the triangle
 
-    пример использования:
+    Example usage:
     >>> perimeter(1, 2, 3)
     6
     """

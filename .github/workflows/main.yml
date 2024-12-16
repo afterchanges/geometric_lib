@@ -4,7 +4,11 @@ on:
   push:
     branches:
       - main
+      - new_features_471063
   pull_request:
+    branches:
+      - main
+      - new_features_471063
 
 jobs:
   run-tests:
@@ -30,4 +34,4 @@ jobs:
 
       - name: Run Unit Tests
         run: |
-          python -m unittest discover tests/  # запуск тестов из папки tests
+          python -m unittest discover tests/

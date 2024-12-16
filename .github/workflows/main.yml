@@ -6,11 +6,13 @@ on:
       - main
       - new_features_471063
       - new_features_2
+      - branch_test
   pull_request:
     branches:
       - main
       - new_features_471063
       - new_features_2
+      - branch_test
 
 jobs:
   run-tests:

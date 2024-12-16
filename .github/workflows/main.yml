@@ -5,10 +5,12 @@ on:
     branches:
       - main
       - new_features_471063
+      - new_features_2
   pull_request:
     branches:
       - main
       - new_features_471063
+      - new_features_2
 
 jobs:
   run-tests:

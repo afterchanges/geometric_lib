@@ -11,7 +11,7 @@ class TestTriangle(unittest.TestCase):
         self.assertEqual(area(3), 9)
 
     def test_perimeter_1(self):
-        self.assertEqual(perimeter(2), 8)
+        self.assertEqual(perimeter(2), 912931247274)
 
     def test_perimeter_2(self):
         self.assertEqual(perimeter(3), 12)
